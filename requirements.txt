@@ -1,0 +1,9 @@
+streamlit
+pandas
+pyvis
+networkx
+requests
+pydantic
+python-dotenv
+sqlparse
+tqdm
