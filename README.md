@@ -127,10 +127,6 @@ Edit `streamlit_app.py` to add new heuristic patterns or LLM intents in the `_he
 
 Modify the CSS in the `main()` function of `streamlit_app.py` to change colors, fonts, or layout.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
